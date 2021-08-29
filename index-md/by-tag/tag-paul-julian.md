@@ -1,0 +1,18 @@
+# Hans Bacher Blog Wayback Index: paul julian
+
+* 2008-09-26 (16:30): [paul julian 1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2008/09/26/paul-julian/) (animation, paul julian, warner brothers)
+* 2009-09-10 (09:40): [train](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/09/10/train/) (animation, paul julian, warner brothers)
+* 2009-10-13 (08:39): [update 1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/10/13/update-1/) (animation, paul julian, WB)
+* 2009-10-14 (07:48): [paul julian 2](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/10/14/paul-julian-2/) (animation, paul julian, shorts, WB)
+* 2009-10-25 (09:52): [paul julian 3](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/10/25/paul-julian-3/) (animation, paul julian, style, WB)
+* 2009-10-30 (09:07): [paul julian 4](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/10/30/paul-julian-4/) (animation, paul julian, WB)
+* 2009-11-17 (09:00): [paul julian 5](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/11/17/paul-julian-5/) (animation, paul julian, WB)
+* 2009-12-02 (13:28): [paul julian 6](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/12/02/paul-julian-6/) (animation, paul julian)
+* 2009-12-19 (15:00): [paul julian 7](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/12/19/paul-julian-7/) (animation, paul julian, style, WB)
+* 2010-01-15 (11:41): [paul julian 8](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/01/15/paul-julian-8/) (animation, paul julian, style, WB)
+* 2011-06-01 (11:33): [paul julian 9](https://web.archive.org/web/https://one1more2time3.wordpress.com/2011/06/01/paul-julian-9/) (animation, paul julian, style)
+* 2011-06-02 (14:15): [paul julian 10](https://web.archive.org/web/https://one1more2time3.wordpress.com/2011/06/02/paul-julian-10/) (animation, paul julian, style)
+* 2011-06-07 (17:22): [paul julian 11](https://web.archive.org/web/https://one1more2time3.wordpress.com/2011/06/07/paul-julian-11/) (animation, paul julian, style)
+* 2014-08-30 (09:38): [rooty toot toot](https://web.archive.org/web/https://one1more2time3.wordpress.com/2014/08/30/rooty-toot-toot/) (animation, john hubley, paul julian, style, UPA)
+* 2015-02-07 (17:38): [tell-tale heart 1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2015/02/07/tell-tale-heart-1/) (animation, paul julian, style, UPA)
+* 2020-05-21 (13:18): [staircase](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/05/21/staircase/) (animation, paul julian, style, UPA)

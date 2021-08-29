@@ -1,0 +1,16 @@
+# Hans Bacher Blog Wayback Index: By Date
+
+* [2008](year-2008.md) (96 posts)
+* [2009](year-2009.md) (308 posts)
+* [2010](year-2010.md) (198 posts)
+* [2011](year-2011.md) (110 posts)
+* [2012](year-2012.md) (87 posts)
+* [2013](year-2013.md) (111 posts)
+* [2014](year-2014.md) (43 posts)
+* [2015](year-2015.md) (58 posts)
+* [2016](year-2016.md) (42 posts)
+* [2017](year-2017.md) (25 posts)
+* [2018](year-2018.md) (95 posts)
+* [2019](year-2019.md) (34 posts)
+* [2020](year-2020.md) (56 posts)
+* [2021](year-2021.md) (12 posts)

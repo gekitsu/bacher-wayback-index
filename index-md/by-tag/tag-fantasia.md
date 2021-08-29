@@ -1,0 +1,15 @@
+# Hans Bacher Blog Wayback Index: fantasia
+
+* 2008-09-12 (16:00): [leaves](https://web.archive.org/web/https://one1more2time3.wordpress.com/2008/09/12/leaves/) (animation, disney, fantasia, multiplane camera)
+* 2008-12-03 (07:47): [tchaikovsky](https://web.archive.org/web/https://one1more2time3.wordpress.com/2008/12/03/tchaikovsky/) (animation, disney, fantasia, nutcracker suite)
+* 2008-12-15 (19:32): [dance of the flowers](https://web.archive.org/web/https://one1more2time3.wordpress.com/2008/12/15/dance-of-the-flowers/) (animation, disney, fantasia)
+* 2008-12-19 (23:12): [nutcracker](https://web.archive.org/web/https://one1more2time3.wordpress.com/2008/12/19/nutcracker/) (animation, disney, fantasia, nutcracker suite)
+* 2008-12-28 (20:08): [milkweed ballerinas](https://web.archive.org/web/https://one1more2time3.wordpress.com/2008/12/28/milkweed-ballerinas/) (animation, disney, fantasia)
+* 2009-01-09 (13:36): [pastorale](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/01/09/pastorale/) (animation, disney, fantasia, kay nielsen)
+* 2009-03-25 (16:10): [nutcracker 2](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/03/25/nutcracker-2/) (animation, disney, fantasia, nutcracker suite)
+* 2009-07-06 (14:59): [beethoven](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/07/06/beethoven/) (animation, disney, fantasia)
+* 2010-04-29 (09:59): [symphony nr.6](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/04/29/symphony-nr-6/) (animation, beethoven, disney, fantasia, pastoral symphony, style)
+* 2010-12-08 (12:31): [distortion](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/12/08/distortion/) (animation, disney, fantasia, layout)
+* 2013-08-30 (12:17): [milkweed ballerinas](https://web.archive.org/web/https://one1more2time3.wordpress.com/2013/08/30/milkweed-ballerinas-2/) (animation, disney, fantasia)
+* 2015-02-10 (14:18): [clair de lune](https://web.archive.org/web/https://one1more2time3.wordpress.com/2015/02/10/clair-de-lune/) (animation, disney, fantasia, make mine music)
+* 2016-02-08 (12:47): [recreated backgrounds](https://web.archive.org/web/https://one1more2time3.wordpress.com/2016/02/08/recreated-backgrounds/) (animation, disney, fantasia, recreated BG's)

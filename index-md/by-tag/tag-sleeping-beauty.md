@@ -1,0 +1,15 @@
+# Hans Bacher Blog Wayback Index: sleeping beauty
+
+* 2010-06-23 (08:13): [style 8.1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/06/23/style-8-1/) (animation, disney, eyvind earle, sleeping beauty, style)
+* 2010-06-24 (08:11): [style 8.2](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/06/24/style-8-2/) (animation, classical painting, disney, gothic art, indian art, medieval art, persian miniatures, research, sleeping beauty, style)
+* 2010-06-25 (07:09): [style 8.3](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/06/25/style-8-3/) (animation, disney, eyvind earle, sleeping beauty, style)
+* 2012-08-30 (08:43): [beauty](https://web.archive.org/web/https://one1more2time3.wordpress.com/2012/08/30/beauty/) (animation, disney, eyvind earle, recreated BG, sleeping beauty, style)
+* 2016-10-02 (20:26): [recreated animated treasures 1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2016/10/02/recreated-animated-treasures-1/) (animation, backgrounds, disney, sleeping beauty, style)
+* 2017-01-24 (20:31): [recreated animated treasures 2](https://web.archive.org/web/https://one1more2time3.wordpress.com/2017/01/24/recreated-animated-treasures-1-2/) (animation, background, disney, sleeping beauty, style)
+* 2020-06-04 (18:01): [disney historic 1.1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/04/disney-historic-1-1/) (animation, artists, disney, historic, sleeping beauty)
+* 2020-06-05 (11:55): [disney historic 1.2](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/05/disney-historic-1-2/) (animation, artists, disney, historic, sleeping beauty)
+* 2020-06-08 (14:35): [disney historic 1.3](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/08/disney-historic-1-3/) (animation, disney, eyvind earle, production design, sleeping beauty, style)
+* 2020-06-10 (11:03): [disney historic 1.4 part 1](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/10/disney-historic-1-4-part-1/) (animation, disney, eyvind earle, reference, sleeping beauty, style)
+* 2020-06-11 (11:22): [disney historic 1.4 part 2](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/11/disney-historic-1-4-part-2/) (animation, disney, eyvind earle, reference, sleeping beauty, style)
+* 2020-06-12 (11:27): [disney historic 1.4 part 3](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/12/disney-historic-1-4-part-3/) (animation, disney, eyvind earle, gothic art, production design, sleeping beauty, style)
+* 2020-06-13 (10:23): [disney historic 1.4 part 4](https://web.archive.org/web/https://one1more2time3.wordpress.com/2020/06/13/disney-historic-1-4-part-4/) (animation, backgrounds, disney, eyvind earle, sleeping beauty, style)
