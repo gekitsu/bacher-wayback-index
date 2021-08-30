@@ -56,7 +56,7 @@ def year_page_lines(year, group):
     return lines
 
 
-def tag_page_lines(tag):
+def tag_page_lines(tag, group):
     """build the lines for a given tag’s markdown index.
 
     has the tag mentioned in the level 1 heading and sets a list of links for
@@ -64,20 +64,16 @@ def tag_page_lines(tag):
 
     args:
         tag (str): the tag the index is of.
+        group (list(str)): the list of iso-dates for the posts in that year.
 
     returns:
         list(str): the text lines to be written to file.
     """
-    tag_id = TAG_IDS[tag]
     lines = [
         H1.format(index_type=tag),
         ''
         ]
-    filtered_posts = [postdate
-                      for postdate
-                      in sorted(POSTS)
-                      if tag_id in POSTS[postdate]['tags']]
-    for date in filtered_posts:
+    for date in group:
         lines.append(postlink(POSTS[date]))
     return lines
 
@@ -105,7 +101,7 @@ if __name__ == '__main__':
         '[{title}](https://web.archive.org/web/{url}) ' \
         '({tags})'
     YR_LINK = '* [{yr}](year-{yr}.md) ({n} posts)'
-    TAG_LINK = '* [{tag}](tag-{slug}.md)'
+    TAG_LINK = '* [{tag}](tag-{slug}.md) ({n} posts)'
 
     # =========================================================================
     # build by-date index
@@ -160,11 +156,16 @@ if __name__ == '__main__':
         # …and a link per tag
         for tag in lettergroup:
             slug = TAG_SLUGS[tag]
-            lines.append(TAG_LINK.format(tag=tag, slug=slug))
+            tag_id = TAG_IDS[tag]
+            tag_posts = [postdate
+                         for postdate
+                         in sorted(POSTS)
+                         if tag_id in POSTS[postdate]['tags']]
+            lines.append(TAG_LINK.format(tag=tag, slug=slug, n=len(tag_posts)))
 
             # also, write a tag page per tag
             with (tag_path / Path('tag-{slug}.md'.format(slug=slug))).open('w') as f:
-                f.write('\n'.join(tag_page_lines(tag)))
+                f.write('\n'.join(tag_page_lines(tag, tag_posts)))
 
         lines.append('')
 
