@@ -11,7 +11,10 @@ machine from blog metadata.
 2. index by tag
     * one root file with links to single tags: index-md/by-tag/root.md
     * one file per tag: index-md/by-tag/tag-TAGSLUG.md
-    * subheadings per year
+    * one link per blog post
+3. index by title
+    * one root file with links to starting character: index-md/by-title/root.md
+    * one file per starting character: index_md/letter-CHAR.md
     * one link per blog post
 """
 
