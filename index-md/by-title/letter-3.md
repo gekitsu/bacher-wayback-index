@@ -1,0 +1,15 @@
+# Hans Bacher Blog Wayback Index: 3
+
+* 2014-07-03 (14:41): [3 dumb dogs](https://web.archive.org/web/https://one1more2time3.wordpress.com/2014/07/03/3-dumb-dogs/) (bilderfabrik)
+* 2010-10-22 (05:54): [3-D](https://web.archive.org/web/https://one1more2time3.wordpress.com/2010/10/22/3-d/) (3-D, anaglyphs, bilderfabrik)
+* 2012-07-21 (23:01): [3.000.000](https://web.archive.org/web/https://one1more2time3.wordpress.com/2012/07/21/3-000-000/) (bilderfabrik)
+* 2018-04-06 (06:45): [# 31](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/06/31/) (bilderfabrik, sketch)
+* 2018-04-07 (07:02): [# 32](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/07/32/) (bilderfabrik, sketch)
+* 2009-09-14 (08:15): [32.000 bc](https://web.archive.org/web/https://one1more2time3.wordpress.com/2009/09/14/32-000-bc/) (bilderfabrik)
+* 2018-04-08 (17:53): [# 33](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/08/33/) (bilderfabrik, composition, sketch)
+* 2018-04-09 (07:38): [# 34](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/09/34/) (bilderfabrik, sketch, style)
+* 2018-04-10 (07:42): [# 35](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/10/35/) (bilderfabrik, sketch)
+* 2018-04-11 (07:38): [# 36](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/11/36/) (bilderfabrik, sketch)
+* 2018-04-12 (06:14): [# 37](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/12/37/) (bilderfabrik, sketch)
+* 2018-04-13 (08:13): [# 38](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/13/38/) (bilderfabrik, sketch)
+* 2018-04-14 (08:05): [# 39](https://web.archive.org/web/https://one1more2time3.wordpress.com/2018/04/14/39/) (bilderfabrik, sketch)
