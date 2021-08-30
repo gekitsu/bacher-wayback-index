@@ -16,6 +16,7 @@ machine from blog metadata.
 """
 
 import json
+import re
 from html import unescape
 from itertools import groupby
 from pathlib import Path
@@ -78,6 +79,29 @@ def tag_page_lines(tag, group):
     return lines
 
 
+def letter_page_lines(letter, group):
+    """build the lines for a given title letter’s markdown index.
+
+    has the letter mentioned in the level 1 heading and sets a list of links
+    for individual posts underneath.
+
+    args:
+        letter (str): thetitle starting letter the index is of.
+        group (list(str)): the list of iso-dates for the posts with titles
+            starting with that letter.
+
+    returns:
+        list(str): the text lines to be written to file.
+    """
+    lines = [
+        H1.format(index_type=letter.upper()),
+        ''
+        ]
+    for date in group:
+        lines.append(postlink(POSTS[date]))
+    return lines
+
+
 if __name__ == '__main__':
     root_path = (Path(__file__).parent / Path('..')).resolve()
 
@@ -102,6 +126,7 @@ if __name__ == '__main__':
         '({tags})'
     YR_LINK = '* [{yr}](year-{yr}.md) ({n} posts)'
     TAG_LINK = '* [{tag}](tag-{slug}.md) ({n} posts)'
+    LETTER_LINK = '* [{letter}](letter-{letter}.md) ({n} posts)'
 
     # =========================================================================
     # build by-date index
@@ -171,4 +196,38 @@ if __name__ == '__main__':
 
     # finally, write the collected index root lines to file
     with (tag_path / Path('root.md')).open('w') as f:
+        f.write('\n'.join(lines))
+
+    # =========================================================================
+    # build by-title index
+    # =========================================================================
+
+    title_path = root_path / Path('index-md', 'by-title')
+    title_path.mkdir(parents=True, exist_ok=True)
+
+    orderable_titles = {re.sub('^[ #…]+', '', unescape(d['title'].upper())): d['date']
+                        for d in POSTS.values()}
+
+    # start collecting lines: a heading…
+    lines = [
+        H1.format(index_type='By Title'),
+        ''
+        ]
+
+    # …a subheading per starting letter…
+    letter_grouping = [(letter, list(group))
+                       for letter, group
+                       in groupby(sorted(orderable_titles),
+                                  lambda x: x[:1].upper())]
+    for letter, lettergroup in letter_grouping:
+        lines.append(LETTER_LINK.format(letter=letter, n=len(lettergroup)))
+
+        # also, write a letter page per letter
+        filtered_post_dates = [orderable_titles[title]
+                               for title in lettergroup]
+        with (title_path / Path('letter-{letter}.md'.format(letter=letter))).open('w') as f:
+            f.write('\n'.join(letter_page_lines(letter, filtered_post_dates)))
+
+    # finally, write the collected index root lines to file
+    with (title_path / Path('root.md')).open('w') as f:
         f.write('\n'.join(lines))
